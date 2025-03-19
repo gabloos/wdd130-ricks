@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <title>It's a Heist</title>
+</head>
+<body>
+    <header>
+        <h1>It's a Heist</h1>
+    </header>
+
+    <main>
+        <section class="section">
+            <div class="hero-image">
+                <h1>Live the Heist. Without the Jail Time.</h1>
+                <h2>Immerse yourself in meticulously crafted heist experiences.</h2>
+                <button class="cta-button">Book Your Heist Now!</button>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>More Than Just an Escape Room.</h2>
+            <p>We're not just throwing you into a room with a few puzzles. Our experiences are fully realized narratives, complete with detailed environments, compelling characters, and high-stakes scenarios. Each heist is designed to test your skills, your teamwork, and your nerve.</p>
+            <ul>
+                <li>Detailed Environments: Step into authentic settings, from high-security vaults to bustling art galleries.</li>
+                <li>Intricate Puzzles: Crack codes, decipher clues, and overcome obstacles that demand strategic thinking.</li>
+                <li>Team Dynamics: Collaborate with your crew to execute flawless plans and navigate unexpected twists.</li>
+            </ul>
+            <div class="detail-floor"></div>
+        </section>
+
+        <section class="section">
+            <h2>Choose Your Mission.</h2>
+            <div>
+                <div>
+                    <img src="images/diamond.jpeg" alt="Diamond Syndicate" width="200px" height="auto">
+                    <h3>The Diamond Syndicate</h3>
+                    <p>Infiltrate a high-profile gala to steal a legendary diamond.</p>
+                    <button class="cta-button">Book Now</button>
+                </div>
+                <div>
+                    <img src="images/art.jpeg" alt="Art Heist" width="200px" height="auto">
+                    <h3>The Art Heist</h3>
+                    <p>Recover stolen masterpieces from a notorious collector's private gallery.</p>
+                    <button class="cta-button">Book Now</button>
+                </div>
+                <div>
+                    <img src="images/vault.jpeg" alt="Bank Job" width="200px" height="auto">
+                    <h3>The Bank Job</h3>
+                    <p>Breach a state-of-the-art vault and escape with the ultimate prize.</p>
+                    <button class="cta-button">Book Now</button>
+                </div>
+                <div>
+                    <img src="images/coming.jpeg" alt="Coming Soon" width="200px" height="auto">
+                    <h3>Coming Soon</h3>
+                    <p>More heists coming soon!</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Hear From Our Crew.</h2>
+            <p>"The most thrilling experience I've ever had! Felt like I was in a real heist movie." - [Name]</p>
+            <p>"Perfect for team building! We had to work together to succeed, and it was so much fun." - [Name]</p>
+            <p>"The puzzles were challenging, but the atmosphere was incredible. Highly recommend!" - [Name]</p>
+            <textarea placeholder="Leave a review"></textarea>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 It's a Heist</p>
+    </footer>
+</body>
+</html>
