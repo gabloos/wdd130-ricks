@@ -2,10 +2,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Oswald:wght@200..700&display=swap');
 
-
-
-body{
+/* Apply fonts globally */
+body {
+    font-family: 'Kanit', Helvetica, sans-serif; /* Default font for the body */
     background-color: #313535;
+    color: rgb(0, 0, 0); /* Ensure text is readable on the dark background */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif; /* Use Oswald for headings */
+}
+
+p, .review, .leave-review-text, .footer, .navbar a {
+    font-family: 'Kanit', Helvetica, sans-serif; /* Use Kanit for paragraphs and other text */
 }
 .container {
     width: 100%;
